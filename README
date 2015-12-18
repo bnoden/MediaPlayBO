@@ -1,0 +1,24 @@
+brandon.oden@my.tccd.edu
+ITSE 2417 32040: Java Programming
+Final Project
+
+References: 
+MediaDemo.java from p.663-664
+FlagAnthem.java, p.666-667
+https://docs.oracle.com/javafx/2/api/javafx/scene/media/MediaPlayer.html
+https://docs.oracle.com/javase/8/javafx/api/javafx/scene/media/MediaPlayer.html
+http://docs.oracle.com/javafx/2/ui_controls/button.htm
+https://docs.oracle.com/javase/8/docs/api/java/awt/event/MouseListener.html
+
+NOTE: The shuffle/sort button only works BEFORE playing videos, it crashes after/during.
+
+To do:
+1. more buttons DONE
+2. button graphics DONE (simple, but I made them all by myself with no help in MS Paint)
+3. playlist DONE
+4. shuffle HALFWAY DONE (too much time was spent on this part)
+5. progress bar !ENOUGH_TIME
+6. total/elapsed time display !ENOUGH_TIME
+7. design/color scheme
+8. MyButtons class/other classes for clean code !ENOUGH_TIME
+9. Handle exceptions !ENOUGH_TIME
