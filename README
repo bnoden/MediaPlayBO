@@ -1,6 +1,6 @@
 brandon.oden@my.tccd.edu
-ITSE 2417 32040: Java Programming
-Final Project
+ITSE 2417: Java Programming
+My Project
 
 References: 
 MediaDemo.java from p.663-664
@@ -14,11 +14,11 @@ NOTE: The shuffle/sort button only works BEFORE playing videos, it crashes after
 
 To do:
 1. more buttons DONE
-2. button graphics DONE (simple, but I made them all by myself with no help in MS Paint)
+2. button graphics DONE (simple, like this project)
 3. playlist DONE
 4. shuffle HALFWAY DONE (too much time was spent on this part)
-5. progress bar !ENOUGH_TIME
-6. total/elapsed time display !ENOUGH_TIME
+5. progress bar
+6. total/elapsed time display
 7. design/color scheme
-8. MyButtons class/other classes for clean code !ENOUGH_TIME
-9. Handle exceptions !ENOUGH_TIME
+8. MyButtons class
+9. Handle exceptions
